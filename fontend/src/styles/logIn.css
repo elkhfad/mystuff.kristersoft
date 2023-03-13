@@ -1,0 +1,148 @@
+.logInDiv1 {
+  color: #99ccff;
+  font-size: 16px;
+  background-color: #00264d;
+  text-align: center;
+}
+
+.doYouHaveAccount {
+  color: #000000;
+  font-size: 16px;
+}
+
+.MuiInputBase-input.MuiInput-input {
+  font-size: 16px;
+}
+
+.MuiFormControl-root.MuiTextField-root {
+  width: 100%;
+}
+
+.pdfListStyle {
+  display: flex;
+}
+
+.pdfListStylePrint {
+  display: none;
+}
+
+.swal2-title {
+  font-family: Courier New, monospace;
+  font-style: italic;
+}
+
+.swal-button {
+  padding: 7px 19px;
+  border-radius: 2px;
+  background-color: #3ac162;
+  font-size: 12px;
+  border: 1px solid #3ac162;
+  text-shadow: 0px -1px 0px #000000;
+  color: #ffffff;
+}
+
+.itemInput {
+  margin-left: 10px;
+}
+
+.h1LogIn {
+  color: #cecece;
+  font-size: 16px;
+  text-align: center;
+  width: 100%;
+  color: #ffffff;
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1LogIn1 {
+  color: #cecece;
+  font-size: 16px;
+  text-align: right;
+  width: 100%;
+  color: #ffffff;
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1LogIn2 {
+  color: #cecece;
+  font-size: 16px;
+  text-align: center;
+  width: 100%;
+  color: #ffffff;
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1LogIn2 {
+  color: #cecece;
+  font-size: 16px;
+  text-align: right;
+  width: 100%;
+  color: #ffffff;
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.registerHome {
+  color: #ffffff;
+  font-size: 30px;
+  -webkit-text-stroke: 1px #000000;
+  text-shadow: 0px 2px 2px #ff0000;
+}
+
+.registerLogIn {
+  color: #cecece;
+  font-size: 16px;
+  text-align: right;
+  width: 100%;
+  color: #ffffff;
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiFormLabel-filled.Mui-required.Mui-required,
+.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiFormLabel-filled.Mui-required.Mui-required {
+  font-size: 16px;
+}
+
+.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.Mui-required.Mui-required {
+  font-size: 16px;
+}
+
+textarea.form-control,
+input.form-control {
+  font-size: 16px;
+}
+
+.toolpin {
+  color: #3ac162;
+  font-size: 12px;
+  text-align: center;
+  width: 100%;
+  color: #ffffff;
+  font-weight: 800;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.language {
+  color: #3ac162;
+  font-size: 14px;
+}
+
+.textLogRegForm {
+  color: #000000;
+  font-size: 16px;
+  width: 100%;
+}
+
+.textLogRegForm1 {
+  color: #000000;
+  font-size: 16px;
+}
+
+.MuiGrid-root {
+  padding-top: 10px;
+  margin-left: -20px;
+}

@@ -1,0 +1,20 @@
+@import '../../src/styles/index.css';
+@import '../../src/styles/chatMessage.css';
+@import '../../src/styles/logIn.css';
+@import '../../src/styles/description.css';
+@import '../../src/styles/messageReport.css';
+@import '../../src/styles/app.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  place-items: center center;
+}
+
+/*::-webkit-scrollbar {
+  display: flex;
+}*/

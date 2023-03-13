@@ -1,0 +1,190 @@
+.converstationStrong1 {
+  color: #ffffff;
+  font-size: 16px;
+  -webkit-text-stroke: 1px #6fbf73;
+  text-shadow: 0px 2px 2px #00264d;
+  text-align: left;
+  font-weight: 800;
+}
+.converstationStrong101 {
+  color: #ffffff;
+  font-size: 28px;
+  -webkit-text-stroke: 1px #0e435e;
+  text-shadow: 0px 2px 2px #600d1b;
+  text-align: center;
+  font-weight: 400;
+}
+.converstationStrong11 {
+  color: #ffffff;
+  font-size: 14px;
+  -webkit-text-stroke: 1px #6fbf73;
+  text-shadow: 0px 2px 2px #00264d;
+  text-align: left;
+  font-weight: 800;
+  margin-top: 10px;
+}
+.converstationStrong1a {
+  color: #ffffff;
+  font-size: 16px;
+  -webkit-text-stroke: 1px #6fbf73;
+  text-shadow: 0px 2px 2px #00264d;
+  text-align: center;
+  font-weight: 800;
+}
+.converstationStrong2 {
+  color: #ffffff;
+  font-size: 16px;
+  -webkit-text-stroke: 1px #be8888;
+  text-shadow: 0px 2px 2px #000000;
+  margin-left: 30%;
+  font-weight: 800;
+}
+.converstationStrong2a {
+  color: #ffffff;
+  font-size: 16px;
+  -webkit-text-stroke: 1px #be8888;
+  text-shadow: 0px 2px 2px #000000;
+  margin-left: 100px;
+  font-weight: 800;
+  margin-top: 20px;
+}
+.delete {
+  margin-left: -200px;
+  margin-top: -20px;
+}
+.deleteKort {
+  margin-left: 170px;
+}
+.deleteKort1 {
+  margin-left: 350px;
+}
+.userDetailDelete {
+  color: #ff0000;
+  font-size: 12px;
+  padding-right: 10px;
+  margin-bottom: -5px;
+}
+.userDetailDeleteIcon {
+  color: #ff0000;
+  border: none;
+}
+.resolvedMessages {
+  margin-left: 350px;
+  margin-top: 20px;
+}
+
+.converstationStrong5 {
+  color: #ffffff;
+  font-size: 16px;
+  -webkit-text-stroke: 1px #be8888;
+  text-shadow: 0px 2px 2px #000000;
+  font-weight: 800;
+  text-align: center;
+}
+.converstationStrong4 {
+  color: #ffffff;
+  font-size: 16px;
+  -webkit-text-stroke: 1px #6fbf73;
+  text-shadow: 0px 2px 2px #00264d;
+  margin-left: 60px;
+  font-weight: 800;
+  margin-top: 20px;
+}
+.converstationStrong4a {
+  color: #ffffff;
+  font-size: 16px;
+  -webkit-text-stroke: 1px #6fbf73;
+  text-shadow: 0px 2px 2px #00264d;
+  margin-left: 60px;
+  font-weight: 800;
+  margin-top: 10px;
+}
+.converstationStrong3 {
+  color: #ffffff;
+  font-size: 16px;
+  -webkit-text-stroke: 1px #cc0000;
+  text-shadow: 0px 2px 2px #00264d;
+  text-align: center;
+  font-weight: 800;
+}
+
+.subjectArchive {
+  background-color: #ffffff;
+}
+
+.perusNappi {
+  font-size: large;
+  color: #cc0000;
+  margin-bottom: 30px;
+}
+.seconderyNappi {
+  outline: 'true';
+  color: 'secondary';
+  size: large;
+}
+.containerReply {
+  width: 280px;
+  margin-top: 10px;
+}
+.MuiTableContainer-root {
+  overflow-x: hidden !important;
+}
+.stylesDiv1 {
+  overflow-y: scroll;
+  background-color: #ffffff;
+  height: 400px;
+  width: 280px;
+  margin-left: 20px;
+  overflow-x: hidden;
+}
+.canNotReply {
+  color: #ffffff;
+  font-size: 16px;
+  -webkit-text-stroke: 1px #cc0000;
+  text-shadow: 0px 2px 2px #00264d;
+  text-align: center;
+}
+
+.line {
+  background-color: #00264d;
+  color: #00264d;
+  width: 100%;
+}
+.stylesDiv2 {
+  color: #757575;
+  font-size: 10px;
+  text-align: left;
+  margin-right: 10px;
+}
+.stylesDiv3 {
+  color: #757575;
+  font-size: 10px;
+  text-align: center;
+  margin-left: 25px;
+}
+
+.textAreacStyle {
+  color: #000000;
+  font-size: 16px;
+  width: 100%;
+  min-height: 60px;
+  border: 0px 2px 0px 0px;
+  float: center;
+}
+
+#chatformText {
+  width: 100%;
+  flex-wrap: wrap;
+  font-size: 16px;
+  display: flow-root;
+  border: 0px 2px 0px 0px;
+}
+
+.MuiPaper-root.MuiPaper-elevation1.MuiPaper-rounded {
+  background-color: #ffffff;
+  transform: none;
+  height: 300px;
+  width: 500px;
+  margin-left: 40%;
+  margin-top: 20%;
+}

@@ -1,0 +1,17 @@
+.sendMessageTitle {
+  color: #99ccff;
+  font-size: 16px;
+  text-align: center;
+}
+.inputFieldMessage {
+  color: #000000;
+  font-size: 16px;
+  width: 100%;
+  margin: 10px;
+  border-radius: 4;
+  position: relative;
+  background-color: #fafafa;
+  border: 1px solid #ced4da;
+  font-size: 16;
+  padding: 16px 20px;
+}

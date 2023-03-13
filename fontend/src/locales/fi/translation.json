@@ -1,0 +1,399 @@
+{
+  "general": {
+    "areYouSure": "Oletko varma? ",
+    "success": "Tiedostosi on poistettu! ",
+    "text2": "Tiedostosi on turvassa! ",
+    "cancel": "Peruuta ",
+    "ok": "Kyllä",
+    "delete": "Poista tiedosto ",
+    "print": "Tulosta"
+  },
+  "color": {
+    "red": "Punainen",
+    "blue": "Sininen",
+    "pink": "Vaaleanpunainen",
+    "orange": "Oranssi",
+    "grey": "Harmaa",
+    "yellow": "Keltainen",
+    "black": "Musta",
+    "brawn": "Ruskea",
+    "green": "Vihreä"
+  },
+  "navBar": {
+    "home": "Etusivu ",
+    "foundMyProperty": "Lähetä viesti",
+    "signUp": "Luo tili ",
+    "login": "Kirjaudu ",
+    "language": "Kieli ",
+    "english": "Englanti ",
+    "finland": "Suomi ",
+    "arabic": "Arabia",
+    "logout": "Kirjaudu ulos ",
+    "appName": "Kristersoft",
+    "help": "Apua",
+    "tips": "Neuvoja",
+    "close": "sulje",
+    "fi": "Fi",
+    "en": "En",
+    "privacy": "Tietosuoja",
+    "createdBy": "Tekijät"
+  },
+  "userDetailDelete": {
+    "areYouSure": "Oletko varma, että tahdot poistaa tilin? ",
+    "text": "Jos poistat tilin niin ei ole mahdollista palauttaa sitä ja kaikki tiedostot poistetaan pysyvästi! ",
+    "no": "Ei",
+    "yes": "Kyllä",
+    "text2": "Tilisi on turvassa! ",
+    "delete": " Poista minun tili"
+  },
+  "navBarDropDownMenu": {
+    "chat": " Viestit ",
+    "MyAccount": " Minun tili ",
+    "ItemList": "Tavaroiden lista ",
+    "logOut": " Kirjaudu ulos ",
+    "ItemsPdf": " Pdf lista",
+    "archive": "Arkisto"
+  },
+  "messageToSupport": {
+    "title": "Lähetä viesti tukeen"
+  },
+  "help": {
+    "help": "Apua",
+    "howToRegister": "  Miten tili luodaan",
+    "howToRegisterFirstStep": "Paina kirjaudu",
+    "text7": "Laita tavaroihin meiltä saatu sarjanumero",
+    "text8": "Voit myös kiinnittää sarjanumeron autoon, jos joku haluaisi ilmoittaa sinulle jotain autoasi koskien ",
+    "register": "Täytä kaiki kentät",
+    "howToCreactItem": " Miten lisätään tavara",
+    "howToCreactItemFirstStep": "Laita sinun käyttäjänimi ja salasana kirjaudu sisään lomakkeseen",
+    "pressPlus": "Paina nappia",
+    "ifYouWantTOsendMessageTOsupport": "Voit ottaa yhteyttä tukeen alla olevan lomakkeella",
+    "pressPlusInput": "Täytä nimi kenttä. Muut kentät ovat valinnaisia",
+    "howToUpdateInfo": " Miten päivität tietosi",
+    "howToUpdateInfoPress": " Paina minun tili ja sitten paina päivitä",
+    "updateMyAccount": "Tee muutokset ja paina tallenna",
+    "howToReply": " Miten vastaat viesteihin",
+    "text9": "Jos tavarasi katoaa, niin löytäjä voi ottaa sinuun yhteyttä järjestelmämme kautta",
+    "text10": "Tässä osiossa voit vastata viesteihin tai sulkea keskustelun",
+    "text11": "Vastaa viesteihin",
+    "text12": "Huom jos painat keskustelu ratkaistu niin ei ole mahdollista palauttaa sitä",
+    "text13": "Voit vaihtaa sähköpostia ja salasanaa"
+  },
+  "home": {
+    "text0": "Tämä ohjelman on ilmainen ",
+    "text1": "Kerromme lyhyesti toiminnastamme Kadota ja löydä helposti",
+    "text2": "Tämän ohjelman tarkoituksena on että voit luoda tavaroilesi koodi, jonka perusteella tavaran löytäjän voisi ottaa sinuun yhteyttä tämän sovelluksen kautta",
+    "text3": "Aloita tämän ohjelman käyttöä painamalla nappia luo tili",
+    "text4": " Rekisteröidy järjestelmään ",
+    "text5": "Kirjaudu tunnuksillasi järjestelmään ",
+    "text6": "Lisää tavara ",
+    "text7": "Laita tavaroihin meiltä saatu sarjanumero ",
+    "text8": "Voit myös kiinnittää sarjanumeron autoon, jos joku haluaisi ilmoittaa sinulle jotain autoasi koskien ",
+    "text9": "Jos tavarasi katoaa, niin löytäjä voi ottaa sinuun yhteyttä järjestelmämme kautta",
+    "text10": "Tässä osiossa voit vastata viesteihin tai sulkea keskustelun",
+    "text11": "Vastaa viesteihin",
+    "text12": "Huom jos painat keskustelu ratkaistu niin ei ole mahdollista palauttaa sitä",
+    "text13": "Voit vaihtaa sähköpostia ja salasanaa"
+  },
+  "message": {
+    "title": "Lähete viesti ",
+    "name": "Nimi ",
+    "email": "Sähköposti ",
+    "itemSerial": "Sarjanumero ",
+    "subject": "Aihe ",
+    "send": "Lähetä ",
+    "message": "Kirjoita tähän viesti ja maksimaali on 250 kirjainta *",
+    "messageToSupport": "Kirjoita tähän viesti ja maksimaali on 1500 kirjainta  *",
+
+    "weDoNotShare": "Emme jaa sinun sähköposti osoitteesi tuotteen omistajan kanssa tai kenenkään muun",
+    "itemOwner": "Onko asiaa tuotteen omistajalle ?",
+    "fillOut": "Täytä huolellisesti lomake",
+    "weSendSerialNumber": "Laita käytössä oleva sähköposti osoite, jotta lähetämme linkin, jossa voit keskustella tavaran omistajan kanssa",
+    "swal": {
+      "errorIcon": "Virhe! ",
+      "errorText": "Jokin meni pieleen yritä hetken kuluttu uudestaan ",
+      "error": "error",
+      "success": "Viesti lähetetty"
+    },
+    "error": {
+      "name": "vähintään 3 kirjainta ",
+      "email": "Vääränlainen sähköposti ",
+      "itemSerial": "vähintään 5 kirjainta ",
+      "message": "vähintään 20 kirjainta ",
+      "subject": "vähintään 3 kirjainta"
+    }
+  },
+  "register": {
+    "title": "Luo tili ",
+    "name": "Nimi ",
+    "weDoNotShare": "Emme jaa sinun sähköposti osoitteesi kenenkään kanssa",
+    "usernameCannotBechange": "Valitse huolellisesti käyttäjänimi, koska sitä ei voi muuttaa jatkossa",
+    "email": "Sähköposti ",
+    "username": "Käyttäjän nimi ",
+    "password": "Salasana ",
+    "fillOut": "Täytä huolellisesti lomake",
+    "weSend": "Laita käytössä oleva sähköposti osoite, koska me lähetämme sinulle viestin, kun jollakin on asiaa sinulle",
+
+    "confirmPassword": "Vahvista salasana ",
+    "create": "Luo tili ",
+    "swal": {
+      "errorIcon": "Virhe! ",
+      "errorText": "Jokin meni pieleen yritä hetken kuluttua uudestaanr ",
+      "error": "error",
+      "errorSubmiting": "Jokin meni pieleen!",
+      "thankYouForRegister": "Kiitos teille!",
+      "sendYouMessage": "Tilin luonti onnistui, ole hyvä ja vahvista sähköposti"
+    },
+    "error": {
+      "name": "Vähintään 3 kirjainta ",
+      "email": "Vääränlainen sähköposti ",
+      "passRegex": "Vähintään 8 merkkiä, 1 iso kirjain,1 pieni kirjain, 1 numero",
+      "password": "Vähintään 6 kirjainta ",
+      "confirmPassword": "Salasana ja salasanan vahvistus eivät täsmää ",
+      "username": "Vähintään 6 kirjainta"
+    }
+  },
+  "logIn": {
+    "title": "Kirjaudu sisään ",
+
+    "putYoursUsernameAndPassword": "Laita käyttäjänimi ja salasana",
+    "forgotPassword": "Jos unohdit salasanan, niin voit luoda uusi salasanan painamalla nappia",
+
+    "username": "Käyttäjän nimi ",
+    "password": "Salasana ",
+    "login": "Kirjaudu ",
+    "swal": {
+      "errorIcon": "Virhe! ",
+      "errorText": "Salasana ja käyttäjänimi eivät täsmää ",
+      "error": "error",
+      "errorSubmiting": "Jokin meni pieleen!"
+    },
+    "error": {
+      "name": "Vähintään 3 kirjainta ",
+      "email": "Vääränlainen sähköposti ",
+      "password": "Vähintään 6 kirjainta ",
+      "confirmPassword": "Salasana ja salasanan vahvistus eivät täsmää ",
+      "username": "Vähintään 6 kirjainta"
+    }
+  },
+  "itemInput": {
+    "title": "Lisää uusi tavara ",
+    "attachment": "Lisää kuva tai tiedosto",
+    "add": "Lisää tavara ",
+    "new": "Uusi tavara ",
+    "exit": "Poistu ",
+    "name": "Nimi *",
+    "description": "Lisätiedot ",
+    "save": "Tallenna ",
+    "swal": {
+      "errorIcon": "Virhe! ",
+      "error": "error",
+      "new": "Sinulla on uusi tavara"
+    },
+    "error": {
+      "name": "Vähintään 3 kirjainta ",
+      "description": "Maksimi määrä 120 kirjainta"
+    }
+  },
+  "itemList": {
+    "copy": {
+      "copy": "Kopioi",
+      "item": "Tahdotko kopioida tavaran ? ",
+      "text": "Kuinka monta kopiota tarvitset ?, enimmäismäärä on ",
+      "cancel": "Peruutit kopionin",
+      "cancelButton": "Ei",
+      "ok": "Kyllä",
+      "copyText": "Kopio",
+      "delete": "Poista"
+    },
+    "qr": "QR-koodi",
+    "nameItem": "Nimi",
+    "length": "Tavaroitesi määrä on ",
+    "maximus": "Olet lisännyt maksimaalisen määrän tavaroita ",
+    "bad": "Löysitkö minut? Palauta:",
+    "contact": "https://mystuff.kristersoft.fi/message",
+    "putSerial": " Kirjoita viestisi ja kirjoita sarjanumero ",
+    "name": "Kristersoft ",
+    "morning": "Huomenta ",
+    "itemslistAdd": "Jos tahdot lisätä tavaran, niin paina plus nappia",
+    "putWhereYouWantSerial": "Laita sarjanumero kaikkiin tavaroihisi, joihin haluat. Ei tarvitse luoda erillisiä tavaroita",
+    "evening": "Iltaa ",
+    "textAboutList1": "Lista on tyhjä —  ",
+    "textAboutList2": " Lisää tavaroita listaan! ",
+    "delete": "Poista tavara ",
+    "noPicture": "Ei kuvaa ",
+    "serial": "Sarjanumero  ",
+    "description": "Kuvaus ",
+    "go": "siirry pdf sivulle ",
+    "swal": {
+      "areYouSure": "Oletko varma? ",
+      "text": "Jos poistat tavaran niin ei ole mahdollista palauttaa sitä! ",
+      "success": "Tavarasi on poistettu! ",
+      "text2": "Tavarasi on turvassa! ",
+      "cancel": "Peruuta ",
+      "ok": "Kyllä"
+    },
+    "pdf": "Lataa pdf ",
+    "somethingWrong1": "Jokin on pielessä? ",
+    "somethingWrong2": "Ottakaa yhteyttä www.hide-my-identity.com"
+  },
+  "userDetailUpdate": {
+    "update": "Päivitä",
+    "title": "Henkilötietojen päivitys",
+    "confirmPassword": "Vahvista salasana",
+    "newPassword": "Uusi salasana"
+  },
+  "userDetailUpdatePassword": {
+    "update": "Päivitä",
+    "title": "Salasanan päivitys",
+    "confirmPassword": "Vahvista salasana",
+    "newPassword": "Uusi salasana"
+  },
+  "userDetailUpdateEmail": {
+    "update": "Päivitä",
+    "title": "Sähköpostin päivitys"
+  },
+  "forgotPassword": {
+    "forgotPassword": "Unohditko salasanan?",
+    "textMessage": "Viesti on lähetetty sähköpostiin ",
+    "resetPasswordByEmail": "Laita sähköposti, jonka olet rekisteröinin yhteydessä laittanut",
+
+    "title": "Palauta salasanani",
+    "email": "Sähköposti",
+    "send": "Lähetä ",
+    "error": {
+      "email": "Vääränlainen sähköposti "
+    },
+    "swal": {
+      "errorIcon": "Virhe! ",
+      "errorText": "Jokin meni pieleen yritä hetken kuluttua uudestaan ",
+      "error": "error",
+      "errorSubmiting": "Jokin meni pieleen! ",
+
+      "send": "Lähetetty! "
+    }
+  },
+  "confirmEmail": {
+    "confirmEmail2": "Hienoa, Sinun sähköposti on vahvistettu. Paina tästä, pääset kirjautumaan"
+  },
+  "resetPassword": {
+    "title": "Uusi salasana",
+    "newPassword": "Uusi salasana"
+  },
+  "userDetailUpdateColor": {
+    "update": "Päivitä",
+    "title": "Päivitä väri"
+  },
+  "userDetails": {
+    "title": "Minun tili  ",
+    "name": "Nimi ",
+    "isDefaultColor": "Vaihtaa ohjelman värin ?",
+    "table": "Vaihtaa kortit taulukkoon ?",
+    "color": "Vaihda väri",
+    "username": "Käyttäjän nimi ",
+    "password": "Salasana ",
+    "email": "Sähköposti ",
+    "save": "Tallenna ",
+    "userDetails": "Arvo väri",
+    "exit": "Poistu ",
+    "update": "Jos tahdot päivittää tietosi, niin paina päivitä",
+    "swal": {
+      "title": "Tahdotko tallentaa muutokset? ",
+      "errorIcon": "Virhe! ",
+      "errorText": "Jokin meni pieleen yritä hetken kuluttua uudestaan ",
+      "error": "error",
+      "errorSubmiting": "Jokin meni pieleen! ",
+      "save": "Tallenna ",
+      "dontSave": "Peruuta ",
+      "saved": "Tallennettu! ",
+      "notSaved": "Muutokset eivät tallentuneet"
+    },
+    "error": {
+      "name": "Vähintään 3 kirjainta ",
+      "email": "Vääränlainen sähköposti ",
+      "password": "Vähintään 6 kirjainta ",
+      "confirmPassword": "Salasana ja salasanan vahvistus eivät täsmää ",
+      "username": "Vähintään 6 kirjainta"
+    }
+  },
+  "chatKort": {
+    "text1": "Tällä hetkellä ei ole keskusteluita ",
+    "text2": "Tässä on kaikki keskustelut ",
+    "resolve": "Keskustelu ratkaistu ",
+    "message": "Viesti",
+    "date": "Aika",
+    "subject": "Aihe",
+    "resolveConverstation": "Jos painat, että keskustelu ratkaistu, niin et voi palauttaa keskustelun, voit vain lukea!",
+    "newMessage": " Lukemattomia viestejä ",
+    "noNewMessages": " Ei ole uusia viestejä",
+    "reply": "Vastaa ",
+    "swal": {
+      "title": "Onko ongelma ratkaistu ? ",
+      "text": "Jos painat, että keskustelu ratkaistu, niin et voi palauttaa keskustelun! ",
+      "errorIcon": "Virhe! ",
+      "success": "Keskustelu poistettu! ",
+      "dontdelete": "Keskustelun poisto peruutettu ",
+      "cancel": "Peruuta ",
+      "ok": "Kyllä"
+    }
+  },
+  "archive": {
+    "text1": "Arkisto on tyhjä ",
+    "text2": "Tässä on kaikki arkistot ",
+    "resolve": "Poista viesti pysyvästi ",
+    "message": "Viesti",
+    "date": "Aika",
+    "subject": "Aihe",
+    "resolveConverstation": "Jos painat, että poista keskustelu, niin et voi palauttaa enään! ",
+    "newMessage": " Lukemattomia viestejä ",
+    "noNewMessages": " Ei ole uusia viestejä",
+    "reply": "Viestit ",
+    "swal": {
+      "title": "Tahdotko poistaa keskustelun ? ",
+      "text": "Jos painat, että poista niin et voi palauttaa keskustelun! ",
+      "errorIcon": "Virhe! ",
+      "success": "Keskustelu poistettu! ",
+      "dontdelete": "Keskustelun poisto peruutettu ",
+      "cancel": "Peruuta ",
+      "ok": "Kyllä"
+    }
+  },
+  "chatReplyForm": {
+    "send": "Lähetä ",
+    "text": "Kirjoita tähän viesti ja maksimaali on 250 kirjainta",
+    "exit": "Poistu"
+  },
+  "chatResponse": {
+    "send": "Lähetä ",
+    "text": "Kirjoita tähän viesti ja maksimaali on 250 kirjainta",
+    "exit": "Poistu",
+    "canNotReply": "Tähän keskusteluun ei voi enään vastata!"
+  },
+  "autoLogOut": {
+    "please": "Kirjaudu uudestaan sisään ",
+    "inactive": "Olet ollut jonkun aikaa poissa!"
+  },
+  "logout": {
+    "title": "Tahdotko kirjautua ulos ?",
+    "cancel": "Peruuta",
+    "ok": "Kyllä",
+    "loggedOut": "Ulos kirjaus peruutettu, olet yhä kirjautunut"
+  },
+  "policy": {
+    "title": "Tietosuoja ja rekisteriseloste",
+    "purpose": "Tämän tietosuojaselosteen tarkoituksena on kertoa sinulle minkälaista tietoa keräämme sivustomme käyttäjistä, kuinka käytämme keräämäämme tietoa ja kuinka se on suojattu.",
+    "register": "1. Rekisterinpitäjä",
+    "contact": "Yhteydenotot: info.kristersoft@gmail.com",
+    "matters": "2. Rekisteriasiat",
+    "forAll": "Asiakaspalvelu palvelee rekisteriasioissa sähköpostitse info.kristersoft@gmail.com",
+    "purposeAndUsage": "3. Rekisterin pitämisen peruste ja käyttötarkoitus",
+    "keep": "Käyttäjistä pidetään rekisteriä palvelun tuottamiseen ",
+    "content": "4. Rekisterin sisältämät tiedot",
+    "information": "Rekisteriin tallennettava tieto ei sisällä henkilökohtaisia tietoja, sikäli kuin ne eivät ole tarpeellisia. ",
+    "contain": "Rekisteri sisältää käyttäjän henkilötietoja seuraavia tietoja:",
+    "email": "Sähköpostiosoite",
+    "emailShare": "Emme jaa tietojasi kolmannen osapuolen kanssa",
+    "user": "Käyttäjällä on oikeus vaatia virheellisten, puutteellisten, tarpeettomien taikka vanhentuneiden tietojensa korjaamista tai poistamista ilmoittamalla asiasta rekisterinpitäjälle. Käyttäjän tiedot voidaan poistaa rekisteristä käyttäjän pyynnöstä.",
+    "service": "Käyttämällä palveluamme, hyväksyt tietojesi käsittelyn tämän tietosuojaselosteen mukaisesti."
+  }
+}

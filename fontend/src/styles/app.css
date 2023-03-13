@@ -1,0 +1,498 @@
+.greenButton,
+.MuiListItemIcon-root {
+  color: #3ac162;
+}
+
+.card-img.img-fluid {
+  flex-shrink: 0;
+  width: 100%;
+  height: 20vh;
+}
+
+.table {
+  margin-top: 20px;
+  width: 490px;
+}
+
+
+.tablePdf {
+  width: 800px;
+}
+
+.MuiAppBar-colorPrimary,
+.MuiToolbar-root.MuiToolbar-regular {
+  width: 120%;
+  top: 0;
+}
+
+.copy {
+  margin-left: 190px;
+  margin-top: -35px;
+}
+
+.redOption {
+  background: #ab0000;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.pinkOption {
+  background: #ff308a;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.orangeOption {
+  background: #fc921a;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.greyOption {
+  background: #4a5454;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.yellowOption {
+  background: #ffd333;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.greenOption {
+  background: #0f7d0b;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.blackOption {
+  background: #000000;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.brawnkOption {
+  background: #b3641b;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.blueOption {
+  background: #0021ff;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.textColor1 {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+.MuiTableCell-head {
+  font-size: 12px !important;
+}
+
+.MuiTableCell-body {
+  font-size: 10px !important;
+}
+
+.updateColor {
+  margin-left: 100px;
+  margin-top: -25px;
+}
+
+.MuiTypography-h2 {
+  color: #ffffff;
+  font-size: 48px;
+  -webkit-text-stroke: 1px #3ac162;
+  text-shadow: 0px 2px 2px #ffffff;
+}
+
+.MuiTypography-h1 {
+  color: #ffffff;
+  font-size: 48px !important;
+  -webkit-text-stroke: 1px #3ac162;
+  text-shadow: 0px 2px 2px #ffffff;
+  text-align: left;
+}
+
+@media only screen and (max-width: 500px) {
+  .converstationStrong1 {
+    font-size: 12px;
+  }
+
+  .converstationStrong101 {
+    font-size: 18px;
+
+  }
+
+  .converstationStrong11 {
+    color: #ffffff;
+    font-size: 10px;
+  }
+
+  .converstationStrong1a {
+
+    font-size: 12px;
+
+  }
+
+  .converstationStrong2 {
+
+    font-size: 12px;
+
+  }
+
+  .converstationStrong2a {
+    font-size: 12px;
+
+  }
+
+  .userDetailDelete {
+    font-size: 10px;
+
+  }
+
+  .converstationStrong5 {
+    font-size: 12px;
+
+  }
+
+  .converstationStrong4 {
+
+    font-size: 12px;
+
+  }
+
+  .converstationStrong4a {
+    font-size: 12px;
+
+  }
+
+  .converstationStrong3 {
+    font-size: 12px;
+
+  }
+
+
+  .perusNappi {
+    font-size: small;
+  }
+
+  .canNotReply {
+    font-size: 12px;
+  }
+
+  .stylesDiv2 {
+
+    font-size: 10px;
+
+  }
+
+  .stylesDiv3 {
+
+    font-size: 10px;
+
+  }
+
+  .textAreacStyle {
+
+    font-size: 12px;
+
+  }
+
+  #chatformText {
+
+    font-size: 12px;
+
+  }
+
+  .logInDiv1 {
+    font-size: 12px;
+  }
+
+  .doYouHaveAccount {
+    font-size: 12px;
+  }
+
+  .MuiInputBase-input.MuiInput-input {
+    font-size: 12px;
+  }
+
+  .swal-button {
+
+    font-size: 10px;
+
+  }
+
+  .itemInput {
+    margin-left: 10px;
+  }
+
+  .h1LogIn {
+    font-size: 12px;
+  }
+
+  .h1LogIn1 {
+    font-size: 12px;
+
+  }
+
+  .h1LogIn2 {
+
+    font-size: 12px;
+  }
+
+  .registerHome {
+    font-size: 14px;
+
+  }
+
+  .registerLogIn {
+    font-size: 12px;
+
+  }
+
+  .MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiFormLabel-filled.Mui-required.Mui-required,
+  .MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiFormLabel-filled.Mui-required.Mui-required {
+    font-size: 12px;
+  }
+
+  .MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.Mui-required.Mui-required {
+    font-size: 12px;
+  }
+
+  textarea.form-control,
+  input.form-control {
+    font-size: 12px;
+  }
+
+  .toolpin {
+    font-size: 10px;
+
+  }
+
+  .language {
+    font-size: 10px;
+  }
+
+  .textLogRegForm {
+    font-size: 12px;
+  }
+
+  .textLogRegForm1 {
+    font-size: 12px;
+  }
+
+
+  .MuiTypography-h1 {
+    font-size: 24px !important;
+  }
+
+  .card-img.img-fluid {
+    flex-shrink: 0;
+    width: 100%;
+    height: 20vh;
+  }
+
+  .table {
+    margin-top: 20px;
+    width: 490px;
+  }
+
+  .tablePdf {
+    width: 500px;
+  }
+
+  .textColor1 {
+    font-size: 14px;
+  }
+
+  .MuiTableCell-head {
+    font-size: 10px !important;
+  }
+
+  .MuiTableCell-body {
+    font-size: 8px !important;
+  }
+
+  .wrapperpolicy {
+    margin-left: 1% !important;
+    font-size: 8px !important;
+    padding: 5px !important;
+  }
+
+  .policy1 {
+    font-size: 10px !important;
+    margin-top: 5px;
+  }
+
+  .dropdown-toggle.btn.btn-primary {
+    font-size: 5px !important;
+  }
+
+  .centerMessage {
+    font-size: 8px;
+  }
+
+  .buttomText {
+    font-size: 10px;
+  }
+}
+
+.wrapperpolicy {
+  text-align: left;
+  margin-left: 7%;
+  font-size: 14px;
+  padding: 15px;
+  color: #00264d;
+}
+
+.policy1 {
+  font-size: 14px;
+  margin-left: -3%;
+  font-weight: bold;
+  color: #5b5b5b;
+  margin-top: 20px;
+}
+
+.btn-primary {
+  border-color: #ffffff !important;
+  background-color: #ffffff !important;
+}
+
+.print {
+  margin-left: 10px;
+}
+
+.MuiTypography-root.MuiListItemText-primary.MuiTypography-body1.MuiTypography-displayBlock {
+  color: #00264d;
+}
+
+.MuiBadge-badge.MuiBadge-anchorOriginTopRightRectangle.MuiBadge-colorSecondary {
+  margin-right: 20px;
+  margin-top: -40px;
+  transform-origin: 100% 0%;
+}
+
+.dropdown-toggle.btn.btn-primary {
+  font-size: 11px;
+  background-color: #ffffff !important;
+  color: #3ac162 !important;
+  border-color: #ffffff !important;
+  background-color: #ffffff !important;
+}
+
+div form Button:hover {
+  background-color: #107804 !important;
+}
+
+Button:hover {
+  background-color: #107804 !important;
+}
+
+
+.languageBar {
+  font-size: 1.5rem;
+  margin-left: 70px;
+  margin-top: -35px;
+}
+
+.MuiTypography-root.MuiListItemText-primary.MuiTypography-body1.MuiTypography-displayBlock {
+  font-size: 1.5rem;
+  color: #3ac162;
+}
+
+.MuiTableHead-root {
+  height: 0.5rem !important;
+}
+
+.strongConver {
+  font-size: 16px;
+  margin-left: -50%;
+}
+
+.footer {
+  margin-top: 1rem;
+  padding: 0.1rem;
+  background-color: #00264d;
+  color: #ffffff;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding-left: 6em;
+  width: 100%;
+}
+
+.foolerPrivacy {
+  margin-left: 10em;
+  position: fixed;
+  margin-top: -2.5em;
+}
+
+.MuiTypography-colorTextSecondary,
+.MuiCircularProgress-colorPrimary {
+  color: #00264d !important;
+}
+
+.MuiTypography-root.MuiCircularProgress-root {
+  position: absolute;
+  top: 13vh;
+  right: 1vh;
+}
+
+
+.MuiInputBase-root.MuiInput-root.MuiInput-underline.MuiInputBase-formControl.MuiInput-formControl {
+  font-size: 16px;
+}
+
+.rightDate {
+  margin-right: 50px;
+}
+
+.centerMessage {
+  margin-left: -20px;
+  font-size: 12px;
+  color: #00264d;
+}
+
+.MuiSwitch-track {
+  background-color: #0f7d0b !important;
+}
+
+.Mui-checked {
+  color: #0f7d0b !important;
+}
+
+.buttomText {
+  display: flex;
+  margin: center;
+  font-size: 14px;
+}
+
+textarea.form-control,
+input,
+.contact-form textarea {
+  overflow-y: hidden;
+}
+
+.exit {
+  margin-left: 90%;
+  margin-top: 10px;
+}
+
+.maximus {
+  font-weight: bold;
+}
